@@ -1,0 +1,6 @@
+name: NetherTopKick
+main: topkick.NetherTopKick
+version: 1.0
+
+permission:
+  nethertopkick.bypass:
